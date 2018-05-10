@@ -142,7 +142,7 @@ To prepare the ground for the optimization with geometrical constraints we execu
 ```
 $ SU2_GEO turb_SA_RAE2822.cfg
 ```
-The screen output of this software provides useful geometrical information (airfoil thickness, chord, etc).
+The screen output of this software provides useful geometrical information (airfoil thickness, chord, etc). In this way it is possible to set geometrical constraints which avoid to start the optimization from a non-feasible point.   
 
 ### Running SU2
 
